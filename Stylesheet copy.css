@@ -1,0 +1,54 @@
+.inline-block {
+   display: flex; 
+   flex-direction: row;
+   vertical-align: top;
+}
+div .logo {
+width: 23%;
+padding: 1%;
+text-align: center;
+}
+nav {
+width: 73%;
+padding: 1%;
+}
+ul .navigation {
+    width: 50%;
+    margin-left: auto;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+    background-color: darkolivegreen;
+    text-align: center;
+}
+.love {
+    height: 100px;
+    width: 33%;
+    align-items: center;
+}
+.workGrid {
+    display: flex;
+    flex-direction: row;
+    background-color: darksalmon;
+    text-align: center;
+}
+.yo {
+    align-items: center;}
+footer {
+    background-color: moccasin;
+ }
+ footer ul {
+     padding: 2px;
+     text-align: center;
+     vertical-align: top;
+ }
+ 
